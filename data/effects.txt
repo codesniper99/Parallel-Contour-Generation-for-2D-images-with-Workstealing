@@ -1,0 +1,12 @@
+{"inPath": "IMG_1.png", "outPath": "IMG_1_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_2.png", "outPath": "IMG_2_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_3.png", "outPath": "IMG_3_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_4.png", "outPath": "IMG_4_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_5.png", "outPath": "IMG_5_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_6.png", "outPath": "IMG_6_Out.png", "effects": ["G","MS","S"]}
+{"inPath": "IMG_7.png", "outPath": "IMG_7_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_8.png", "outPath": "IMG_8_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_9.png", "outPath": "IMG_9_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_10.png", "outPath": "IMG_10_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_11.png", "outPath": "IMG_11_Out.png", "effects": ["G","MS"]}
+{"inPath": "IMG_12.png", "outPath": "IMG_12_Out.png", "effects": ["G","MS"]}

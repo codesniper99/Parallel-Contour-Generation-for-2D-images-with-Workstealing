@@ -62,11 +62,14 @@ The project was rigorously tested by executing the provided script multiple time
   - Simplicity in implementation and predictability in performance scaling.
 
 - **Work-Stealing Implementation**:
+
   - Distributes images among worker threads, with each thread processing images sequentially within its queue.
   - Initially faster due to efficient load distribution, but speedup decreases with more threads due to synchronization overhead.
   - More complex implementation, but can handle dynamic workloads effectively by redistributing tasks from idle to busy threads.
   - Demonstrates a higher initial speedup (~2.1) but faces challenges with thread synchronization and context switching at higher thread counts.
+
     ![img](./images/graph.png)
+
     ![img](./images/graphs.png)
 
 ## Interesting Questions
